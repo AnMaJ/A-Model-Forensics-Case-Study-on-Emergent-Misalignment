@@ -1,0 +1,7 @@
+checkpoints/
+outputs/*.log
+**/__pycache__/
+*.pyc
+
+reports/mats_application_report.md
+reports/report.md
